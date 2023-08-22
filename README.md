@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Tenzies Dice Game 🎲🎯
+
+"Enjoy the excitement of Tenzies, a dice game where you roll your way to victory! This React-based game lets you roll a set of dice, aiming to match their values for the ultimate win. Hold and release dice strategically, and experience the thrill of 'Tenzies' when all dice show the same value! Try your luck and challenge your friends in this engaging game of chance and strategy. 🎮🎉"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
